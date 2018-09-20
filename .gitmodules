@@ -1,0 +1,15 @@
+[submodule "ms-employeeserach"]
+	path = ms-employeeserach
+	url = https://github.com/paras16jul1991/ms-employeeserach
+[submodule "ms-EmployeeDashBoardService"]
+	path = ms-EmployeeDashBoardService
+	url = https://github.com/paras16jul1991/ms-EmployeeDashBoardService
+[submodule "ms-gateway"]
+	path = ms-gateway
+	url = https://github.com/paras16jul1991/ms-gateway
+[submodule "ms-eurekaserver"]
+	path = ms-eurekaserver
+	url = https://github.com/paras16jul1991/ms-eurekaserver
+[submodule "ms-configserver"]
+	path = ms-configserver
+	url = https://github.com/paras16jul1991/ms-configserver
