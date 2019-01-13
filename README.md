@@ -1,6 +1,6 @@
 # microservice-employeemanagement
 
-# Basic microservice example lo learn microservice architechture.
+# Basic microservice example lo learn microservice architecture.
 
 #Sources:
 
